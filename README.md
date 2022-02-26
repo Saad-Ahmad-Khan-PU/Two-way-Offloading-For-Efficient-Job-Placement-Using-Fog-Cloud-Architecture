@@ -28,7 +28,7 @@ This project run the iteration of each algorithm, and output the following value
     completion time : (sec)
     waiting time    : (sec)
     wastage time    : (sec)
-    average free PMs  :(%)
+    avg free PMs    :(%)
     # of migration  : (count) // in fog data center
     # of PMs        : (count) // in cloud data center
     back offloading : (count)
